@@ -41,6 +41,5 @@ class EchoTestCase(unittest.TestCase):
             "expected {0}, got {1}".format(expected, actual)
         )
 
-
 if __name__ == '__main__':
     unittest.main()
